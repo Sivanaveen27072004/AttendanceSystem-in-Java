@@ -326,7 +326,7 @@ System.out.println("Enter the valid number");
 System.out.println();
 System.out.println("*****************************************");
 System.out.println();
-System.out.println("With Regards,");
+System.out.println("          With Regards,");
 System.out.println("                      Sivanaveen Lakshmanasamy");
 System.out.println("                      Admin Of Attendance System");
 System.out.println("                      Student of  ECE");
